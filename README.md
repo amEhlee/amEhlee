@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🦑🐙👽, I'm Elie</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amehlee&row=1" alt="amehlee" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amehlee&row=1&no-frame=true" alt="amehlee" /></a> </p>
 
 <h1 align="left">About Me:</h1>
 I am a junior full-stack developer with experience in building responsive and brilliant digial experiences. My current focus is moving up the ladder and improving my skills as a developer.

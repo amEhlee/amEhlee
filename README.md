@@ -44,8 +44,10 @@ I am a junior full-stack developer with experience in building responsive and br
 ## 🫱🏼‍🫲🏾Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/elie-kabengele-492475204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elie-kabengele-492475204" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/elie-kabengele-492475204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elie-kabengele-492475204" height="30" width="40" />Linked In</a>
 </p>
 
 
 <!-- shield icons from: "https://dev.to/envoy_/150-badges-for-github-pnk"-->
+<!-- additional shield icons (more specific): "https://github.com/Ileriayo/markdown-badges"-->
+

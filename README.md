@@ -10,6 +10,7 @@ I am a junior full-stack developer with experience in building responsive and br
 
 - 🌱 I’m currently learning **React, Node, Mongodb, Python**
 - 📫 How to reach me **ElieKabengele.Work@gmail.com**
+- 🖇️ check out my site! Amehlee.github.io/Portfolio
 
 <h1 align="left">Languages and Tools:</h1>
 
